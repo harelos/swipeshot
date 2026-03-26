@@ -1,0 +1,12 @@
+runpod
+torch>=2.0.0
+diffusers
+transformers
+accelerate
+safetensors
+insightface
+onnxruntime-gpu
+opencv-python-headless
+Pillow
+requests
+numpy
